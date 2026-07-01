@@ -1,5 +1,5 @@
 // ===== CONFIG =====
-const API_URL = 'http://localhost:3000/api';
+const API_URL = 'https://productweb-backend-hlg2.onrender.com/api';
 
 // ===== STATE =====
 let currentUser = null;
